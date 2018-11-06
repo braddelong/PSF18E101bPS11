@@ -2,7 +2,7 @@
   "name": "PS11 Notebook",
   "endpoint": "cal/econ101b/fa18/PS11",
   "src": [
-    "PS13.ipynb"
+    "PS11.ipynb"
   ],
   "tests": {
       "ok_tests/q*.py": "ok_test"
